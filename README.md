@@ -1,1 +1,1 @@
-# NewRepository
+# StoryBuilder - An app for writing books
