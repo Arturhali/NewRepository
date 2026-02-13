@@ -1,1 +1,1 @@
-# StoryBuilder - An app for writing books
+# StoryBuilder - An app for writing books!
